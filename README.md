@@ -17,7 +17,7 @@ Hi there 👋 I'm Hritik Padwal
 🌱 Learning every day: Machine Learning, Deep Learning, Data Mining, and LLM Fine-Tuning
 
 I'm a tech enthusiast who enjoys building clean, simple and useful projects that actually help people in real life.  
-Right now, I'm exploring **Python**, **Machine Learning**, **Deep Learning**, **Data Mining**, and a bit of **Web App development** using tools like Streamlit and FastAPI.
+Right now, I'm exploring **Python**, **Machine Learning**, **Deep Learning**, **Data Mining**, and a bit of **Web App development**
 
 I like to work on projects that:
 - solve daily life problems  
@@ -49,7 +49,7 @@ I like to work on projects that:
 
 ## 🛠️ Tech I Use / Learning
 
-- **Python** • **Streamlit** • **Pandas**  
+- **Python** 
 - **R**  
 - **Machine Learning / DL**  
 - **Jupyter Notebook**  
