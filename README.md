@@ -1,9 +1,14 @@
 <html>
 	<head>
-		<H1>Hritik Padwal</H1>
-			<H2>Ciao!</H2>
+	<h1 align="center" style="color:#36BCF7;">
+  Hritik Padwal
+</h1>
 
-		
+<body>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=1000&width=800&lines=Ciao!!;Data+Mining+%7C+ML%2FDL+%7C+Analytics;Aspiring+Data+Scientist+%40+University+of+Pisa;Learning+Random+Stuffs" alt="Typing SVG" /></a>
+
+</body>
+	
 </html>
 
 ## 🕶️ About Me
